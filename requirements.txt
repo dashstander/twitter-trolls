@@ -1,0 +1,7 @@
+config
+dplyr
+readr
+purrr
+stringr
+tidytext
+rtweet
